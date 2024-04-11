@@ -4,6 +4,10 @@ This repository contains my solutions to various problems from LeetCode. :books:
 
 Easy - Medium - Hard :green_circle:-:yellow_circle:-:red_circle:
 
+## Author :bust_in_silhouette:
+
+My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
+
 ## Contents :open_book:
 
 - Array :bar_chart:
