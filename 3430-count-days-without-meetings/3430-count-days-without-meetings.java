@@ -1,7 +1,7 @@
 class Solution {
     public int countDays(int days, int[][] mat) {
         Arrays.sort(mat, Comparator.comparingDouble(o -> o[0]));
-        TreeMap<Integer,Integer> hs = new TreeMap<>();
+        HashMap<Integer,Integer> hs = new HashMap<>();
         int s = mat[0][0];
         int e = mat[0][1];
 
@@ -20,7 +20,7 @@ class Solution {
         }
         hs.put(s,e);
         
-       // System.out.println(hs);
+       
         int sum =0;
         for(int v:hs.keySet()){
             int t  = hs.get(v);
@@ -28,7 +28,7 @@ class Solution {
             g++;
             sum+=g;
         }
-        System.out.println(sum);
+    
         return days-sum;
 
 
