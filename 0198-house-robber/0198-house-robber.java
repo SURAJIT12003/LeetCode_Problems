@@ -13,8 +13,21 @@ class Solution {
     }
     public int rob(int[] nums) {
         int n = nums.length;
-        int dp[] = new int [n];
-        Arrays.fill(dp,-1);
-        return rec(0,nums,nums.length,dp);
+        int dp[] = new int [n+1];
+        dp[n] = 0;
+        for(int i=n-1;i>=0;i--){
+            int take = nums[i];
+            int not  = 0;
+            if(i+2<n){
+                take  = take +dp[i+2];
+            }
+            if(i+1<n){
+                not = not +dp[i+1];
+            }
+            dp[i] = Math.max(take,not);
+        }
+
+        return dp[0];
+        
     }
 }
