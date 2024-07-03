@@ -15,19 +15,23 @@ class Solution {
         int n = nums.length;
         int dp[] = new int [n+1];
         dp[n] = 0;
+        int prev =0;
+        int morePrev =0;
         for(int i=n-1;i>=0;i--){
             int take = nums[i];
             int not  = 0;
             if(i+2<n){
-                take  = take +dp[i+2];
+                take  = take +morePrev;
             }
             if(i+1<n){
-                not = not +dp[i+1];
+                not = not +prev;
             }
-            dp[i] = Math.max(take,not);
+            int curr = Math.max(take,not);
+            morePrev  = prev;
+            prev  = curr;
         }
 
-        return dp[0];
+        return prev;
         
     }
 }
