@@ -71,4 +71,12 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SURAJIT12003/LeetCode/tree/master/0337-house-robber-iii) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
