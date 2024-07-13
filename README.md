@@ -57,6 +57,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +96,13 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SURAJIT12003/LeetCode/tree/master/0133-clone-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
