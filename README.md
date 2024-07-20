@@ -34,6 +34,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -55,6 +56,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
@@ -68,6 +70,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
