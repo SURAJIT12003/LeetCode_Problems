@@ -46,6 +46,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0213-house-robber-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/SURAJIT12003/LeetCode/tree/master/0133-clone-graph) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,8 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
