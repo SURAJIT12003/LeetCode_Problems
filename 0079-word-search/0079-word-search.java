@@ -1,6 +1,6 @@
 class Solution {
 
-    public boolean rec(int index,int r,int c,String word,boolean visit[][],int n,int m,char board[][]){
+    public boolean rec(int index,int r,int c,String word,int n,int m,char board[][]){
         if(index==word.length() || word.length()==1){
             return true;
         }
@@ -8,11 +8,7 @@ class Solution {
             return false;
         }
 
-        if(visit[r][c]){
-            return false;
-        }
-
-        visit[r][c] = true;
+        board[r][c] = '0';
 
         //top
         boolean top=false;
@@ -21,22 +17,23 @@ class Solution {
         boolean bottom=false;
 
         if(r-1>=0){
-            top = rec(index+1,r-1,c,word,visit,n,m,board);
+            top = rec(index+1,r-1,c,word,n,m,board);
         }
 
         if(c-1>=0){
-            left = rec(index+1,r,c-1,word,visit,n,m,board);
+            left = rec(index+1,r,c-1,word,n,m,board);
         }
 
         if(c+1<m){
-            right = rec(index+1,r,c+1,word,visit,n,m,board);
+            right = rec(index+1,r,c+1,word,n,m,board);
         }
 
         if(r+1<n){
-            bottom = rec(index+1,r+1,c,word,visit,n,m,board);
+            bottom = rec(index+1,r+1,c,word,n,m,board);
         }
 
-         visit[r][c] = false;
+       
+           board[r][c] = word.charAt(index);
         return left || right || bottom || top;
 
     }
@@ -44,12 +41,12 @@ class Solution {
         int n = board.length;
         int m = board[0].length;
 
-        boolean visit[][] = new boolean[n][m];
+       
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                if(word.charAt(0)==board[i][j]){
                
-                  boolean r = rec(0,i,j,word,visit,n,m,board);
+                  boolean r = rec(0,i,j,word,n,m,board);
                  // System.out.println(r);
                   if(r){
                     return true;
