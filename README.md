@@ -40,6 +40,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0054-spiral-matrix](https://github.com/SURAJIT12003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SURAJIT12003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -136,6 +137,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0054-spiral-matrix](https://github.com/SURAJIT12003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +147,12 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
