@@ -35,6 +35,7 @@ class Solution {
 
                  if(dp[index+i]==1){
                     take = true;
+                    break;
                  }
                }
               
