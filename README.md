@@ -38,6 +38,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/SURAJIT12003/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SURAJIT12003/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SURAJIT12003/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SURAJIT12003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SURAJIT12003/LeetCode/tree/master/0198-house-robber) |
@@ -126,6 +128,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SURAJIT12003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
