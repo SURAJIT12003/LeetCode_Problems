@@ -50,7 +50,7 @@ class Solution {
                if(word.charAt(0)==board[i][j]){
                
                   boolean r = rec(0,i,j,word,visit,n,m,board);
-                  System.out.println(r);
+                 // System.out.println(r);
                   if(r){
                     return true;
                   }
