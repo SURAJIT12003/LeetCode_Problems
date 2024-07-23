@@ -43,6 +43,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SURAJIT12003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SURAJIT12003/LeetCode/tree/master/0198-house-robber) |
@@ -68,6 +69,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -80,6 +82,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0015-3sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
