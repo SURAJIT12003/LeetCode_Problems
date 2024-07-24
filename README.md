@@ -159,9 +159,14 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SURAJIT12003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SURAJIT12003/LeetCode/tree/master/0079-word-search) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SURAJIT12003/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
