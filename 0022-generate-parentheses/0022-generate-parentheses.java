@@ -46,7 +46,7 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
         rec("",n*2,ans);
-        System.out.println(ans);
+      //  System.out.println(ans);
         return ans;
     }
 }
