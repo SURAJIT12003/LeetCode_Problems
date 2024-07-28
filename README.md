@@ -51,6 +51,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -121,6 +122,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SURAJIT12003/LeetCode/tree/master/0012-integer-to-roman) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
