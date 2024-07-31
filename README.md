@@ -124,6 +124,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0012-integer-to-roman](https://github.com/SURAJIT12003/LeetCode/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -205,4 +206,5 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
