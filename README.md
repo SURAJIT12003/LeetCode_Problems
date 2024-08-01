@@ -63,6 +63,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0012-integer-to-roman](https://github.com/SURAJIT12003/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/SURAJIT12003/LeetCode/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -76,6 +77,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -207,6 +209,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
