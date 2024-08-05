@@ -196,6 +196,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SURAJIT12003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -240,4 +241,12 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
