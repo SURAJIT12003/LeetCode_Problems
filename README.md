@@ -196,6 +196,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SURAJIT12003/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
@@ -244,9 +245,11 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
