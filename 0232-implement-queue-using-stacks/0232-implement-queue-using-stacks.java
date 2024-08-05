@@ -1,34 +1,40 @@
 class MyQueue {
-    int front = 0;
-    int n = -1;
-    int arr[] = new int [10005];
+    int front = 0 ;
+    int rear = -1;
+    int arr[] = new int [10004];
     public MyQueue() {
-
-    }
-
-    public void push(int x) {
-        n++;
-        arr[n] = x;
-    }
-
-    public int pop() {
         
+    }
+    
+    public void push(int x) {
+        rear++;
+        arr[rear] = x;
+    }
+    
+    public int pop() {
+        if(rear==-1){
+            return -1;
+        }
+       
         int t = arr[front];
         front++;
         return t;
     }
-
+    
     public int peek() {
+         if(rear==-1){
+            return -1;
+        }
+        //front++;
         int t = arr[front];
-       
         return t;
     }
-
+    
     public boolean empty() {
-        if(arr[front]==0){
-            return true;
-        }
-        return false;
+       if(arr[front]==0){
+        return true ;
+       }
+       return false;
     }
 }
 
