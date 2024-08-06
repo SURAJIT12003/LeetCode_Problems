@@ -52,6 +52,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -65,6 +66,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0133-clone-graph](https://github.com/SURAJIT12003/LeetCode/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -199,6 +201,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -252,4 +255,8 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
