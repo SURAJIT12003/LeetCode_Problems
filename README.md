@@ -55,6 +55,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SURAJIT12003/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -98,6 +99,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Dynamic Programming
 |  |
@@ -155,6 +157,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0055-jump-game](https://github.com/SURAJIT12003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
