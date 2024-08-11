@@ -46,6 +46,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SURAJIT12003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/SURAJIT12003/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
@@ -265,4 +266,8 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
