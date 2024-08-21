@@ -51,6 +51,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0213-house-robber-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
+| [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/SURAJIT12003/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0073-set-matrix-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/SURAJIT12003/LeetCode/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -88,12 +90,14 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
@@ -102,6 +106,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0016-3sum-closest](https://github.com/SURAJIT12003/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [2379-maximum-total-importance-of-roads](https://github.com/SURAJIT12003/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
