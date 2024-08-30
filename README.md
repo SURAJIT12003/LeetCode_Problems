@@ -64,6 +64,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/SURAJIT12003/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SURAJIT12003/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -153,6 +154,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0189-rotate-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -294,4 +296,8 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0136-single-number) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
