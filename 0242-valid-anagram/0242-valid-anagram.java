@@ -1,50 +1,52 @@
 class Solution {
-    public boolean isAnagram(String a, String b) {
-          
-        HashMap<Character,Integer> hs  = new HashMap<>();
-        for(int i=0;i<a.length();i++){
-            char ch = a.charAt(i);
-            if(hs.containsKey(ch)){
-                int t = hs.get(ch);
-                t++;
-                hs.put(ch,t);
-            }
-            else{
-                hs.put(ch,1);
-            }
+    public boolean isAnagram(String s, String t) {
+    HashMap<Character,Integer>map=new HashMap<>();
+    HashMap<Character,Integer>map2=new HashMap<>();
+
+    for(int i=0;i<s.length();i++){
+        char ch=s.charAt(i);
+        if(map.containsKey(ch)){
+            int freq=map.get(ch);
+            freq++;
+            map.put(ch,freq);
+        }
+        else{
+           map.put(ch,1);
         }
         
-         
-        HashMap<Character,Integer> map  = new HashMap<>();
-        for(int i=0;i<b.length();i++){
-            char ch = b.charAt(i);
-            if(map.containsKey(ch)){
-                int t = map.get(ch);
-                t++;
-                map.put(ch,t);
-            }
-            else{
-                map.put(ch,1);
-            }
+    }
+    for(int i=0;i<t.length();i++){
+         char vh =t.charAt(i); 
+         if(map2.containsKey(vh)){
+            int freq2=map2.get(vh);
+            freq2++;
+            map2.put(vh,freq2);
+         }
+         else{
+            map2.put(vh,1);
+         }
+    }
+    for(char p:map.keySet() ){
+        if(map2.containsKey(p)==false){
+            return false;
         }
-        
-        for(char ch:hs.keySet()){
-            if(map.containsKey(ch)==false){
-                return false;
-            }
-            int g =hs.get(ch);
-            int nb = map.get(ch);
-            if(g!=nb){
-                return false;
-            }
+        int g  = map.get(p);
+        int h = map2.get(p);
+        if(g!=h){
+            return false;
         }
-          for(char ch:map.keySet()){
-            if(hs.containsKey(ch)==false){
-                return false;
-            }
-           
+    }
+
+     for(char  p:map2.keySet()){
+        if(map.containsKey(p)==false){
+            return false;
         }
-        
-        return true ;
+        int g  = map.get(p);
+        int h = map2.get(p);
+        if(g!=h){
+            return false;
+        }
+     }
+     return true;
     }
 }
