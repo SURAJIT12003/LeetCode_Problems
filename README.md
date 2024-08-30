@@ -64,6 +64,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2714-left-and-right-sum-differences](https://github.com/SURAJIT12003/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SURAJIT12003/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0209-minimum-size-subarray-sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/SURAJIT12003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2714-left-and-right-sum-differences](https://github.com/SURAJIT12003/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 ## Sliding Window
 |  |
 | ------- |
