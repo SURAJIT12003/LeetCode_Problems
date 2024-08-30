@@ -161,6 +161,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0054-spiral-matrix](https://github.com/SURAJIT12003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
+| [2470-removing-stars-from-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Breadth-First Search
 |  |
@@ -221,6 +222,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0151-reverse-words-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SURAJIT12003/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SURAJIT12003/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
 |  |
@@ -235,6 +237,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SURAJIT12003/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2470-removing-stars-from-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
