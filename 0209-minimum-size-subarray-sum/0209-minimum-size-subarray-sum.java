@@ -8,20 +8,15 @@ class Solution {
         for(int i=0;i<n;i++){
             last = i; 
             sum+=nums[i];
-            if(sum>target){
-                while(sum>target && first<=last){
+            if(sum>=target){
+                while(sum>=target && first<=last){
                     int dist = (last-first)+1;
                     ans = Math.min(ans,dist);
                     sum-=nums[first];
                     first++;
                 }
             }
-            if(sum>=target){
-                // System.out.println(ans);
-                int dist = (last-first)+1;
-                ans = Math.min(ans,dist);
-            }
-
+           
           
             
         }
