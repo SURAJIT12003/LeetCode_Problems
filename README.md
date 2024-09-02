@@ -59,6 +59,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0485-max-consecutive-ones](https://github.com/SURAJIT12003/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SURAJIT12003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/SURAJIT12003/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/SURAJIT12003/LeetCode/tree/master/0890-lemonade-change) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/SURAJIT12003/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -130,6 +131,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0198-house-robber](https://github.com/SURAJIT12003/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/SURAJIT12003/LeetCode/tree/master/0337-house-robber-iii) |
+| [0747-min-cost-climbing-stairs](https://github.com/SURAJIT12003/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
