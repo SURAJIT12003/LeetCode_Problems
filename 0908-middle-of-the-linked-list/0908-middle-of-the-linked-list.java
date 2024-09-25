@@ -12,16 +12,16 @@ class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode temp = head;
         ListNode ptr = head;
-        while(ptr!=null){
-            if(ptr.next==null){
-                return temp;
-            }
+
+        while(ptr!=null && ptr.next!=null ){
             temp = temp.next;
+            if(ptr.next==null){
+                ptr  = null;
+                break;
+            }
             ptr = ptr.next.next;
-            
-           
         }
-        
-        return temp;     
+
+        return temp;
     }
 }
