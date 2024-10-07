@@ -163,6 +163,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0013-roman-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/SURAJIT12003/LeetCode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -171,6 +172,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SURAJIT12003/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/SURAJIT12003/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
 | [2470-removing-stars-from-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/SURAJIT12003/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -316,5 +318,6 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SURAJIT12003/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
