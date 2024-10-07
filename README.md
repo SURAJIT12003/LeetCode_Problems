@@ -51,6 +51,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0198-house-robber](https://github.com/SURAJIT12003/LeetCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SURAJIT12003/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/SURAJIT12003/LeetCode/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +83,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0160-intersection-of-two-linked-lists](https://github.com/SURAJIT12003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SURAJIT12003/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -115,6 +117,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0069-sqrtx](https://github.com/SURAJIT12003/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -125,6 +128,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0075-sort-colors](https://github.com/SURAJIT12003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/SURAJIT12003/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/SURAJIT12003/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -169,6 +173,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0189-rotate-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SURAJIT12003/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SURAJIT12003/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SURAJIT12003/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -320,6 +325,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 ## Number Theory
 |  |
 | ------- |
