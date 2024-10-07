@@ -113,6 +113,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SURAJIT12003/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/SURAJIT12003/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -162,6 +163,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0009-palindrome-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SURAJIT12003/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SURAJIT12003/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/SURAJIT12003/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SURAJIT12003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/SURAJIT12003/LeetCode/tree/master/0258-add-digits) |
