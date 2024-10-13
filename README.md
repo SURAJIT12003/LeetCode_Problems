@@ -86,6 +86,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0268-missing-number](https://github.com/SURAJIT12003/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SURAJIT12003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SURAJIT12003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SURAJIT12003/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
@@ -251,6 +252,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | [0151-reverse-words-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SURAJIT12003/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/SURAJIT12003/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SURAJIT12003/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -324,6 +326,7 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SURAJIT12003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SURAJIT12003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -343,4 +346,8 @@ My Leetcode  Prifile Link - https://leetcode.com/surajit2003/
 | ------- |
 | [0070-climbing-stairs](https://github.com/SURAJIT12003/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SURAJIT12003/LeetCode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SURAJIT12003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
